@@ -1,0 +1,27 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3HY97PX9Q9.com.ozan.ozan.debug",
+                "paths": ["*"]
+            },
+            {
+                "appID": "375PYF34CR.com.ozan.ozan.qa",
+                "paths": ["*"]
+            },
+            {
+                "appID": "3HY97PX9Q9.com.ozan.ozan.sandbox",
+                "paths": ["*"]
+            },
+            {
+                "appID": "3HY97PX9Q9.com.ozan.ozan",
+                "paths": ["*"]
+            },
+            {
+                "appID": "375PYF34CR.com.ozan.ozan",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
